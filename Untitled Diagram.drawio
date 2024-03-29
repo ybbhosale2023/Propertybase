@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-29T09:41:35.870Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="lfRBTaSty0-cQtE6LtKC" version="24.2.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-03-29T09:45:33.204Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="amJQQqkP90jPsHlYNK5T" version="24.2.1" type="github" pages="3">
   <diagram name="Stakeholders" id="a7904f86-f2b4-8e86-fa97-74104820619b">
     <mxGraphModel dx="2534" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -957,7 +957,7 @@
         <mxCell id="BAlxDeaPwgRyEy9uGZrB-1" value="" style="strokeColor=none;fillColor=#d9d9d9;" vertex="1" parent="1">
           <mxGeometry x="14" y="7" width="800" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="BAlxDeaPwgRyEy9uGZrB-2" value="" style="shape=delay;whiteSpace=wrap;html=1;strokeColor=none;resizeHeight=1;part=1;" vertex="1" parent="BAlxDeaPwgRyEy9uGZrB-1">
+        <mxCell id="BAlxDeaPwgRyEy9uGZrB-2" value="" style="shape=delay;html=1;strokeColor=none;resizeHeight=1;part=1;textShadow=1;labelBorderColor=default;labelBackgroundColor=default;" vertex="1" parent="BAlxDeaPwgRyEy9uGZrB-1">
           <mxGeometry width="350" height="100" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BAlxDeaPwgRyEy9uGZrB-3" value="Your Logo Here" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fd7298;strokeColor=none;align=left;spacingLeft=5;fontSize=10;part=1;" vertex="1" parent="BAlxDeaPwgRyEy9uGZrB-2">
@@ -991,10 +991,18 @@
             <mxPoint y="20" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BAlxDeaPwgRyEy9uGZrB-11" value="List View can show Maximum 2000 Records So users will able to See only&amp;nbsp;&lt;div&gt;Only 200 Records are visible in the Kanban View&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;strokeColor=#B3B3B3;arcSize=20;absoluteArcSize=1;align=left;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;html=1;verticalAlign=middle;spacingLeft=6;" vertex="1" parent="1">
+        <mxCell id="BAlxDeaPwgRyEy9uGZrB-11" value="User can show Maximum 2000 Records So users will able to See only&amp;nbsp;&lt;div&gt;User can have only 7 Dynamic Reports&lt;/div&gt;" style="rounded=1;strokeColor=#B3B3B3;arcSize=20;absoluteArcSize=1;align=left;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;html=1;verticalAlign=middle;spacingLeft=6;" vertex="1" parent="1">
           <mxGeometry x="21" y="520" width="786" height="170" as="geometry" />
         </mxCell>
         <mxCell id="BAlxDeaPwgRyEy9uGZrB-12" value="Reports and Dashboard" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=none;right=0;fontStyle=1;align=left;strokeColor=#B3B3B3;spacingLeft=15;part=1;resizeWidth=1;textShadow=1;labelBorderColor=none;" vertex="1" parent="BAlxDeaPwgRyEy9uGZrB-11">
+          <mxGeometry width="786" height="30" relative="1" as="geometry">
+            <mxPoint y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BAlxDeaPwgRyEy9uGZrB-15" value="&lt;div&gt;Record Owner&amp;nbsp; edit is not Possible in the case of Mobile&amp;nbsp;&lt;/div&gt;" style="rounded=1;strokeColor=#B3B3B3;arcSize=20;absoluteArcSize=1;align=left;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;html=1;verticalAlign=middle;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="21" y="710" width="786" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="BAlxDeaPwgRyEy9uGZrB-16" value="Mobile and Handled Devices" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=none;right=0;fontStyle=1;align=left;strokeColor=#B3B3B3;spacingLeft=15;part=1;resizeWidth=1;textShadow=1;labelBorderColor=none;" vertex="1" parent="BAlxDeaPwgRyEy9uGZrB-15">
           <mxGeometry width="786" height="30" relative="1" as="geometry">
             <mxPoint y="20" as="offset" />
           </mxGeometry>
