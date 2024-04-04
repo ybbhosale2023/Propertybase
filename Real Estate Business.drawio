@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-04T07:46:22.398Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="CSAtLLBgPiiniSPUCdIe" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-04T17:37:07.612Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="olJhv5Z8VPwqBPlJ0KPt" version="24.2.0" type="github" pages="2">
   <diagram name="Page-1" id="3e8102d1-ef87-2e61-34e1-82d9a586fe2e">
-    <mxGraphModel dx="1408" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
         <mxCell id="70666756c84bb93c-8" value="Central&lt;div&gt;Management&lt;/div&gt;&lt;div&gt;Service&lt;/div&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.services.central_management_service;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="317" y="313" width="51" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="70666756c84bb93c-9" value="Digital&lt;div&gt;Development&lt;/div&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.servers.on_premises_server;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="70666756c84bb93c-9" value="Digital&lt;div&gt;Content&amp;nbsp;&lt;/div&gt;&lt;div&gt;Development&lt;/div&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.servers.on_premises_server;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="700" y="282" width="44" height="58" as="geometry" />
         </mxCell>
         <mxCell id="70666756c84bb93c-10" value="Technology&lt;div&gt;Certificates&lt;/div&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.security.token_service;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
@@ -39,6 +39,121 @@
         </mxCell>
         <mxCell id="70666756c84bb93c-15" value="Finance" style="shape=mxgraph.signs.travel.euro;html=1;fillColor=#ffffff;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="637" y="189" width="45" height="51" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="FKnn7Ic8AE2Hp6lNNYNz" name="Integrations">
+    <mxGraphModel dx="1900" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="we0I4DOi1lZJxNfLagDO-12" value="&lt;span style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(59, 130, 246, .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: border-box; font-weight: bolder; font-family: arial, sans-serif; font-size: 14px; text-align: left; white-space-collapse: preserve;&quot;&gt;Lead Vault&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;align=center;horizontal=1;verticalAlign=top;aspect=fixed;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="600" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="we0I4DOi1lZJxNfLagDO-10" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png;fontColor=#e61e1e;" vertex="1" parent="1">
+          <mxGeometry x="600" y="290" width="34.1" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="we0I4DOi1lZJxNfLagDO-35" value="Lead Distribution" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="67" y="320" width="120" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="we0I4DOi1lZJxNfLagDO-36" value="Lead Assignments" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="194" y="320" width="120" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="we0I4DOi1lZJxNfLagDO-37" value="Off-boarded Agents Leads&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="320" width="120" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="we0I4DOi1lZJxNfLagDO-38" value="Leads Re-shuffling" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="467" y="320" width="120" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="we0I4DOi1lZJxNfLagDO-39" value="Lead Scoring" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="67" y="407" width="120" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="we0I4DOi1lZJxNfLagDO-40" value="Lead Activity" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="407" width="120" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="we0I4DOi1lZJxNfLagDO-41" value="Lead Activity" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="334" y="407" width="120" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="we0I4DOi1lZJxNfLagDO-42" value="Lead Reports" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="467" y="407" width="120" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="we0I4DOi1lZJxNfLagDO-44" value="Listing Administrations&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;verticalAlign=top;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;glass=1;fontStyle=1;fontSize=14;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="277" width="300" height="213" as="geometry" />
+        </mxCell>
+        <mxCell id="we0I4DOi1lZJxNfLagDO-45" value="Listing Creator" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="401.05" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="we0I4DOi1lZJxNfLagDO-46" value="Listing Scoring&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="we0I4DOi1lZJxNfLagDO-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=flexArrow;" edge="1" parent="1" source="we0I4DOi1lZJxNfLagDO-47" target="we0I4DOi1lZJxNfLagDO-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-80" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="we0I4DOi1lZJxNfLagDO-47" value="Listing Publishing/&lt;div&gt;Un-publishing&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="we0I4DOi1lZJxNfLagDO-48" value="Listing Performance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="we0I4DOi1lZJxNfLagDO-54" value="Listing Portal Management" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="130" width="870" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="we0I4DOi1lZJxNfLagDO-1" value="Property Finder" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;shadow=1;glass=0;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="we0I4DOi1lZJxNfLagDO-2" value="Bayut" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;shadow=1;glass=0;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="152" y="160" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="we0I4DOi1lZJxNfLagDO-3" value="Dubizzle" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;shadow=1;glass=0;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="263" y="160" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="we0I4DOi1lZJxNfLagDO-4" value="PropSearch" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;shadow=1;glass=0;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="160" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="we0I4DOi1lZJxNfLagDO-5" value="Yalla Deals" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;shadow=1;glass=0;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="487" y="160" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="we0I4DOi1lZJxNfLagDO-6" value="Hausza" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;shadow=1;glass=0;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="160" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="we0I4DOi1lZJxNfLagDO-7" value="James Edition" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;shadow=1;glass=0;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="598" y="160" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="we0I4DOi1lZJxNfLagDO-56" value="Lead Source Management&amp;nbsp;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;horizontal=0;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="690" y="240" width="150" height="780" as="geometry" />
+        </mxCell>
+        <mxCell id="we0I4DOi1lZJxNfLagDO-13" value="Facebook" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="260" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="we0I4DOi1lZJxNfLagDO-14" value="Instagram" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="346" width="100" height="55.05" as="geometry" />
+        </mxCell>
+        <mxCell id="we0I4DOi1lZJxNfLagDO-15" value="Linked-In" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="430" width="100" height="55.05" as="geometry" />
+        </mxCell>
+        <mxCell id="we0I4DOi1lZJxNfLagDO-16" value="Snapchat" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="597" width="100" height="55.05" as="geometry" />
+        </mxCell>
+        <mxCell id="we0I4DOi1lZJxNfLagDO-17" value="Twitter" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="513" width="100" height="55.05" as="geometry" />
+        </mxCell>
+        <mxCell id="we0I4DOi1lZJxNfLagDO-18" value="Tick toc" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="680" width="100" height="55.05" as="geometry" />
+        </mxCell>
+        <mxCell id="we0I4DOi1lZJxNfLagDO-19" value="Telegram" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="764" width="100" height="55.05" as="geometry" />
+        </mxCell>
+        <mxCell id="we0I4DOi1lZJxNfLagDO-20" value="Whats App" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="847" width="100" height="55.05" as="geometry" />
+        </mxCell>
+        <mxCell id="we0I4DOi1lZJxNfLagDO-57" value="External Agency" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="719" y="930" width="100" height="55.05" as="geometry" />
+        </mxCell>
+        <mxCell id="we0I4DOi1lZJxNfLagDO-59" value="Owners Data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;gradientColor=#FFFFFF;verticalAlign=top;fontSize=14;fontStyle=1;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="140" y="819.05" width="540" height="196" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
