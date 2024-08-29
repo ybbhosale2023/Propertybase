@@ -391,16 +391,16 @@
           <mxGeometry x="1180" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8jJIo8xl17nce2jPL5Lc-22" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="280" y="320" width="760" height="160" as="geometry" />
+          <mxGeometry x="280" y="320" width="800" height="160" as="geometry" />
         </mxCell>
         <mxCell id="8jJIo8xl17nce2jPL5Lc-23" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="280" y="560" width="760" height="120" as="geometry" />
+          <mxGeometry x="280" y="560" width="800" height="120" as="geometry" />
         </mxCell>
         <mxCell id="8jJIo8xl17nce2jPL5Lc-24" value="Salesforce" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="910" y="320" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8jJIo8xl17nce2jPL5Lc-25" value="Salesforce" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="920" y="560" width="100" height="50" as="geometry" />
+          <mxGeometry x="990" y="560" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8jJIo8xl17nce2jPL5Lc-26" value="Lead Processing Engine" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#006666;strokeColor=#6c8ebf;gradientColor=#00FFFF;" vertex="1" parent="1">
           <mxGeometry x="310" y="310" width="220" height="20" as="geometry" />
@@ -441,7 +441,7 @@
         <mxCell id="8jJIo8xl17nce2jPL5Lc-59" value="Social Media&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#5057b4;sketch=1;curveFitting=1;jiggle=2;shadow=1;glass=1;rotation=-90;textShadow=1;labelBorderColor=none;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="-160" y="430" width="400" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="8jJIo8xl17nce2jPL5Lc-60" value="Property Portals" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#B3FF66;textShadow=1;labelBorderColor=none;fontFamily=Verdana;glass=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
+        <mxCell id="8jJIo8xl17nce2jPL5Lc-60" value="Property Portals / Listings&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#B3FF66;textShadow=1;labelBorderColor=none;fontFamily=Verdana;glass=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="170" width="600" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8jJIo8xl17nce2jPL5Lc-61" value="External + Internal marketing Team" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#6666FF;rotation=-90;textShadow=1;labelBorderColor=none;fontFamily=Verdana;glass=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
@@ -453,8 +453,23 @@
         <mxCell id="8jJIo8xl17nce2jPL5Lc-63" value="Duplicate Check" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="380" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8jJIo8xl17nce2jPL5Lc-64" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="8jJIo8xl17nce2jPL5Lc-64" value="Initial Status" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="520" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8jJIo8xl17nce2jPL5Lc-65" value="Location Based Assignment" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="294" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8jJIo8xl17nce2jPL5Lc-66" value="Language Based Assignment" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="440" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8jJIo8xl17nce2jPL5Lc-67" value="Team Based Assignment" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="590" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8jJIo8xl17nce2jPL5Lc-68" value="Expert Based Assignment" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="730" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8jJIo8xl17nce2jPL5Lc-69" value="Listing Based Assignment" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="870" y="590" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
