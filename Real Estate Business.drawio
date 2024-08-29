@@ -260,10 +260,64 @@
     </mxGraphModel>
   </diagram>
   <diagram id="K_F4XwIKiE5TsuCF37L0" name="Overall Architecture">
-    <mxGraphModel dx="1434" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8jJIo8xl17nce2jPL5Lc-1" value="" style="strokeColor=none;fillColor=#d9d9d9;" vertex="1" parent="1">
+          <mxGeometry x="40" width="1220" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="8jJIo8xl17nce2jPL5Lc-2" value="" style="shape=delay;whiteSpace=wrap;html=1;strokeColor=none;resizeHeight=1;part=1;" vertex="1" parent="8jJIo8xl17nce2jPL5Lc-1">
+          <mxGeometry width="350" height="160" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8jJIo8xl17nce2jPL5Lc-3" value="Your Logo Here" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fd7298;strokeColor=none;align=left;spacingLeft=5;fontSize=10;part=1;" vertex="1" parent="8jJIo8xl17nce2jPL5Lc-2">
+          <mxGeometry width="90" height="20" relative="1" as="geometry">
+            <mxPoint x="20" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8jJIo8xl17nce2jPL5Lc-4" value="&lt;h3&gt;&lt;span style=&quot;background-color: initial; font-weight: normal; font-size: 14px;&quot;&gt;Real Estate Technical Landscape&amp;nbsp;&lt;/span&gt;&lt;/h3&gt;&lt;h3&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Real estate Agency requirement and Solution landscape&lt;/span&gt;&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;part=1;" vertex="1" parent="8jJIo8xl17nce2jPL5Lc-2">
+          <mxGeometry width="310" height="100" relative="1" as="geometry">
+            <mxPoint x="20" y="40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8jJIo8xl17nce2jPL5Lc-5" value="Contact&amp;nbsp;&lt;div&gt;Leads / Enquiries&amp;nbsp;&lt;/div&gt;&lt;div&gt;Property / Listing&amp;nbsp;&lt;/div&gt;&lt;div&gt;Property Owner , Property&amp;nbsp; History&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;verticalAlign=top;align=left;spacingLeft=10;fontSize=11;part=1;" vertex="1" parent="8jJIo8xl17nce2jPL5Lc-1">
+          <mxGeometry x="1" width="270" height="120" relative="1" as="geometry">
+            <mxPoint x="-290" y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8jJIo8xl17nce2jPL5Lc-6" value="Facebook" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8jJIo8xl17nce2jPL5Lc-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8jJIo8xl17nce2jPL5Lc-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8jJIo8xl17nce2jPL5Lc-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8jJIo8xl17nce2jPL5Lc-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8jJIo8xl17nce2jPL5Lc-11" value="Property Finder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8jJIo8xl17nce2jPL5Lc-12" value="Bayut" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8jJIo8xl17nce2jPL5Lc-13" value="Dubizzle" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8jJIo8xl17nce2jPL5Lc-14" value="James Edition" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8jJIo8xl17nce2jPL5Lc-15" value="Yalla Deals" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8jJIo8xl17nce2jPL5Lc-16" value="P&lt;span style=&quot;background-color: initial;&quot;&gt;rop Search&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
