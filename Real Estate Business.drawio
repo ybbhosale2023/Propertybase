@@ -903,7 +903,7 @@
         <mxCell id="u3kvVqf6okWitYf0bx-l-1" value="Whatsapp" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="340" width="240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="u3kvVqf6okWitYf0bx-l-2" value="sd" style="strokeColor=none;fillColor=#d9d9d9;" vertex="1" parent="1">
+        <mxCell id="u3kvVqf6okWitYf0bx-l-2" value="" style="strokeColor=none;fillColor=#d9d9d9;" vertex="1" parent="1">
           <mxGeometry width="1160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="u3kvVqf6okWitYf0bx-l-3" value="" style="shape=delay;whiteSpace=wrap;html=1;strokeColor=none;resizeHeight=1;part=1;" vertex="1" parent="u3kvVqf6okWitYf0bx-l-2">
