@@ -437,7 +437,7 @@
         <mxCell id="8jJIo8xl17nce2jPL5Lc-22" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="360" y="347.5" width="880" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="rQyYqbj01RHAgEKcnzEU-31" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;strokeColor=#001DBC;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=1;fillColor=#0050ef;" parent="1" source="8jJIo8xl17nce2jPL5Lc-23" edge="1">
+        <mxCell id="rQyYqbj01RHAgEKcnzEU-31" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;strokeColor=#001DBC;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=1;fillColor=#0050ef;entryX=0.486;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="8jJIo8xl17nce2jPL5Lc-23" target="rQyYqbj01RHAgEKcnzEU-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="811.0638297872342" y="767.5" as="targetPoint" />
           </mxGeometry>
@@ -519,7 +519,7 @@
         <mxCell id="6LUKJ4NetkE4_JeyMep2-11" value="Previous" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="40" y="1040" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rQyYqbj01RHAgEKcnzEU-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="rQyYqbj01RHAgEKcnzEU-3" value="" style="rounded=1;whiteSpace=wrap;html=1;direction=west;" parent="1" vertex="1">
           <mxGeometry x="40" y="760" width="1560" height="210" as="geometry" />
         </mxCell>
         <mxCell id="rQyYqbj01RHAgEKcnzEU-58" value="Lead Rotation" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fontColor=default;labelBackgroundColor=none;gradientColor=#00FFFF;gradientDirection=south;fillColor=#FFFFFF;strokeColor=default;align=center;verticalAlign=middle;" parent="1" vertex="1">
