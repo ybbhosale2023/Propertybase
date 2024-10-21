@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17" pages="22">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.0" pages="23">
   <diagram id="74UXzFoV9HbFoQ_UUy8M" name="Why Salesforce">
     <mxGraphModel dx="1674" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -466,77 +466,82 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="rotNopPm1boLP9KgiE9d" name="Lead Management">
-    <mxGraphModel dx="1434" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="T_lxrR5aroergINHRFZt" name="Real Estate Market ">
+    <mxGraphModel dx="1434" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vHeih9cQzJIUfXqUPnVj-17" value="Salesforce&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="50" y="190" width="520" height="520" as="geometry" />
+        <mxCell id="sLGw2XnC9avLwYVpEp_a-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#6b6be1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="144" width="540" height="540" as="geometry" />
         </mxCell>
-        <mxCell id="vHeih9cQzJIUfXqUPnVj-18" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;elbow=vertical;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="90" y="120" as="sourcePoint" />
-            <mxPoint x="680" y="190" as="targetPoint" />
+        <mxCell id="sLGw2XnC9avLwYVpEp_a-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=1;flowAnimation=1;" edge="1" parent="1" source="sLGw2XnC9avLwYVpEp_a-9" target="sLGw2XnC9avLwYVpEp_a-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="420" as="sourcePoint" />
+            <mxPoint x="360" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vHeih9cQzJIUfXqUPnVj-1" value="PropertyFinder" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="40" y="80" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vHeih9cQzJIUfXqUPnVj-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vHeih9cQzJIUfXqUPnVj-2" target="vHeih9cQzJIUfXqUPnVj-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="250" y="160" />
-              <mxPoint x="680" y="160" />
-            </Array>
+        <mxCell id="sLGw2XnC9avLwYVpEp_a-5" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;flowAnimation=1;" edge="1" parent="1" source="sLGw2XnC9avLwYVpEp_a-7" target="sLGw2XnC9avLwYVpEp_a-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="144" as="sourcePoint" />
+            <mxPoint x="410" y="94" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vHeih9cQzJIUfXqUPnVj-2" value="Bayut" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="190" y="80" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vHeih9cQzJIUfXqUPnVj-3" value="dubizzle" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="340" y="80" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vHeih9cQzJIUfXqUPnVj-4" value="Prop Search" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="480" y="80" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vHeih9cQzJIUfXqUPnVj-5" value="Yalla Deals" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="620" y="80" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vHeih9cQzJIUfXqUPnVj-6" value="Engati" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="620" y="270" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vHeih9cQzJIUfXqUPnVj-7" value="sudonum" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="620" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vHeih9cQzJIUfXqUPnVj-8" value="Convolo" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="620" y="360" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vHeih9cQzJIUfXqUPnVj-9" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="620" y="460" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vHeih9cQzJIUfXqUPnVj-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" edge="1" parent="1" source="vHeih9cQzJIUfXqUPnVj-10" target="vHeih9cQzJIUfXqUPnVj-6">
+        <mxCell id="sLGw2XnC9avLwYVpEp_a-21" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=1;flowAnimation=1;strokeWidth=3;strokeColor=#6b0fdb;" edge="1" parent="1" source="sLGw2XnC9avLwYVpEp_a-6" target="sLGw2XnC9avLwYVpEp_a-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vHeih9cQzJIUfXqUPnVj-10" value="Whatsapp List&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="170" y="240" width="120" height="120" as="geometry">
-            <mxRectangle x="400" y="200" width="120" height="30" as="alternateBounds" />
-          </mxGeometry>
+        <mxCell id="sLGw2XnC9avLwYVpEp_a-6" value="New Lead" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="522.5" y="40" width="115" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vHeih9cQzJIUfXqUPnVj-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" edge="1" parent="1" source="vHeih9cQzJIUfXqUPnVj-12" target="vHeih9cQzJIUfXqUPnVj-8">
+        <mxCell id="sLGw2XnC9avLwYVpEp_a-23" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;flowAnimation=1;curved=1;strokeColor=#6b0fdb;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="sLGw2XnC9avLwYVpEp_a-7" target="sLGw2XnC9avLwYVpEp_a-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vHeih9cQzJIUfXqUPnVj-12" value="Facebook" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="335" width="110" height="110" as="geometry" />
+        <mxCell id="sLGw2XnC9avLwYVpEp_a-7" value="Offer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="750" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vHeih9cQzJIUfXqUPnVj-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;flowAnimation=1;" edge="1" parent="1" source="vHeih9cQzJIUfXqUPnVj-13">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="990" y="370" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="sLGw2XnC9avLwYVpEp_a-22" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;flowAnimation=1;strokeColor=#6b0fdb;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="sLGw2XnC9avLwYVpEp_a-8" target="sLGw2XnC9avLwYVpEp_a-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vHeih9cQzJIUfXqUPnVj-13" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="360" width="30" height="60" as="geometry" />
+        <mxCell id="sLGw2XnC9avLwYVpEp_a-8" value="New Contact" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="394" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="sLGw2XnC9avLwYVpEp_a-27" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;strokeColor=#6b0fdb;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=1;" edge="1" parent="1" source="sLGw2XnC9avLwYVpEp_a-9" target="sLGw2XnC9avLwYVpEp_a-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sLGw2XnC9avLwYVpEp_a-9" value="Sold /Leaded&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sLGw2XnC9avLwYVpEp_a-11" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;New Leads / Contact&lt;/h1&gt;&lt;p&gt;Create of New Leads / Contact Automation&amp;nbsp;&lt;/p&gt;&lt;p&gt;Integration With Property Portals&amp;nbsp;&lt;/p&gt;&lt;p&gt;Bring the New Leads&amp;nbsp;&lt;/p&gt;&lt;p&gt;Import New Leads&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="110" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="sLGw2XnC9avLwYVpEp_a-12" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Lead Flow&amp;nbsp;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Nurture Leads and Qualify the Leads and bring them on the Process of Offer&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="510" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="sLGw2XnC9avLwYVpEp_a-13" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Deal&amp;nbsp;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400; background-color: initial;&quot;&gt;Convert the Offer to Deal&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="530" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="sLGw2XnC9avLwYVpEp_a-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Capture Leads&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;amp;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Nurture&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="280" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sLGw2XnC9avLwYVpEp_a-16" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Engage&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;amp;&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Negotiate&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="480" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sLGw2XnC9avLwYVpEp_a-17" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Closing&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="500" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sLGw2XnC9avLwYVpEp_a-18" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Customer Support&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;amp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Renewal&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="270" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sLGw2XnC9avLwYVpEp_a-26" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;New Owner&lt;/h1&gt;&lt;p&gt;Cross Sell or Renew the Old Deals&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="60" width="180" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="rotNopPm1boLP9KgiE9d" name="Property base Objects">
+    <mxGraphModel dx="1434" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
