@@ -467,7 +467,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="T_lxrR5aroergINHRFZt" name="Real Estate Market ">
-    <mxGraphModel dx="1687" dy="925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2252" dy="1207" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -509,13 +509,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sLGw2XnC9avLwYVpEp_a-8" value="New Lead" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="sLGw2XnC9avLwYVpEp_a-8" value="New Enquiry" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="890" y="424" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sLGw2XnC9avLwYVpEp_a-27" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#6b0fdb;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=1;" parent="1" source="sLGw2XnC9avLwYVpEp_a-9" target="sLGw2XnC9avLwYVpEp_a-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sLGw2XnC9avLwYVpEp_a-9" value="Sold /Leaded&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="sLGw2XnC9avLwYVpEp_a-9" value="Sold /Rented" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="430" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sLGw2XnC9avLwYVpEp_a-11" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;New Leads / Contact&lt;/h1&gt;&lt;p&gt;Create of New Leads / Contact Automation&amp;nbsp;&lt;/p&gt;&lt;p&gt;Integration With Property Portals&amp;nbsp;&lt;/p&gt;&lt;p&gt;Bring the New Leads&amp;nbsp;&lt;/p&gt;&lt;p&gt;Import New Leads&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
