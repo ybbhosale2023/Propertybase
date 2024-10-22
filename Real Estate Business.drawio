@@ -1218,6 +1218,24 @@
             <mxPoint y="150" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="SiChyrDtcvYOwsyx2QzA-155" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;arcSize=20;absoluteArcSize=1;fillColor=#ffcc99;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="210" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="SiChyrDtcvYOwsyx2QzA-156" value="Offered Listing" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=none;right=0;fontStyle=1;align=left;strokeColor=#B3B3B3;spacingLeft=15;part=1;resizeWidth=1;" vertex="1" parent="SiChyrDtcvYOwsyx2QzA-155">
+          <mxGeometry width="200" height="30" relative="1" as="geometry">
+            <mxPoint y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SiChyrDtcvYOwsyx2QzA-157" value="Listing" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=15;part=1;resizeWidth=1;" vertex="1" parent="SiChyrDtcvYOwsyx2QzA-155">
+          <mxGeometry width="200" height="24" relative="1" as="geometry">
+            <mxPoint y="54" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SiChyrDtcvYOwsyx2QzA-158" value="Offer" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=15;part=1;resizeWidth=1;" vertex="1" parent="SiChyrDtcvYOwsyx2QzA-155">
+          <mxGeometry width="200" height="24" relative="1" as="geometry">
+            <mxPoint y="78" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
