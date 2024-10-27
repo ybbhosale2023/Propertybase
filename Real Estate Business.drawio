@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.1" pages="22">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3" pages="22">
   <diagram id="T_lxrR5aroergINHRFZt" name="Real Estate Market ">
-    <mxGraphModel dx="1914" dy="1026" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="sLGw2XnC9avLwYVpEp_a-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#6b6be1;shadow=1;" parent="1" vertex="1">
+        <mxCell id="sLGw2XnC9avLwYVpEp_a-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#6b6be1;shadow=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="315" y="174" width="540" height="540" as="geometry" />
         </mxCell>
         <mxCell id="sLGw2XnC9avLwYVpEp_a-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=1;flowAnimation=1;" parent="1" source="sLGw2XnC9avLwYVpEp_a-9" target="sLGw2XnC9avLwYVpEp_a-8" edge="1">
@@ -105,7 +105,7 @@
             <mxPoint x="-430" y="20" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zMdqBp2plFBRimXdaqPF-16" value="" style="endArrow=classic;html=1;rounded=0;curved=1;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;flowAnimation=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" edge="1">
+        <mxCell id="zMdqBp2plFBRimXdaqPF-16" value="" style="endArrow=classic;html=1;rounded=0;curved=1;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;flowAnimation=1;fontSize=14;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="800" y="370" as="sourcePoint" />
             <mxPoint x="800" y="520" as="targetPoint" />
@@ -125,7 +125,7 @@
         <mxCell id="zMdqBp2plFBRimXdaqPF-19" value="Lead&amp;nbsp;" style="edgeLabel;resizable=0;html=1;;align=right;verticalAlign=bottom;" parent="zMdqBp2plFBRimXdaqPF-16" connectable="0" vertex="1">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zMdqBp2plFBRimXdaqPF-26" value="" style="endArrow=classic;html=1;rounded=0;curved=1;strokeColor=#b85450;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;flowAnimation=1;fillColor=#f8cecc;sketch=1;curveFitting=1;jiggle=2;" parent="1" edge="1">
+        <mxCell id="zMdqBp2plFBRimXdaqPF-26" value="" style="endArrow=classic;html=1;rounded=0;curved=1;strokeColor=#b85450;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;flowAnimation=1;fillColor=#f8cecc;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="689.4" y="644" as="sourcePoint" />
             <mxPoint x="499.4" y="644" as="targetPoint" />
@@ -147,7 +147,7 @@
             <mxPoint y="-24" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zMdqBp2plFBRimXdaqPF-38" value="" style="endArrow=classic;html=1;rounded=0;curved=1;strokeColor=#b85450;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;flowAnimation=1;fillColor=#f8cecc;sketch=1;curveFitting=1;jiggle=2;" parent="1" edge="1">
+        <mxCell id="zMdqBp2plFBRimXdaqPF-38" value="" style="endArrow=classic;html=1;rounded=0;curved=1;strokeColor=#b85450;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;flowAnimation=1;fillColor=#f8cecc;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="540.1" as="sourcePoint" />
             <mxPoint x="370" y="370.1" as="targetPoint" />
