@@ -2475,7 +2475,7 @@
             <mxPoint x="-130" y="102" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dHHyhdmvyhbHDsXCuqWq-8" value="A long footer title can go here and wraps text" style="text;html=1;strokeColor=none;fillColor=#e5e5e5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;spacingLeft=5;resizeWidth=1;part=1;" vertex="1" parent="dHHyhdmvyhbHDsXCuqWq-1">
+        <mxCell id="dHHyhdmvyhbHDsXCuqWq-8" value="Functionality of contact" style="text;html=1;strokeColor=none;fillColor=#e5e5e5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;spacingLeft=5;resizeWidth=1;part=1;" vertex="1" parent="dHHyhdmvyhbHDsXCuqWq-1">
           <mxGeometry width="200" height="48" relative="1" as="geometry">
             <mxPoint y="126" as="offset" />
           </mxGeometry>
