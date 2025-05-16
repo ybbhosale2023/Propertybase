@@ -2239,16 +2239,8 @@
         <mxCell id="wpgupWt_y3VhmFoRx1fL-19" value="Portal to Enquiry" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1020" y="720" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wpgupWt_y3VhmFoRx1fL-21" value="" style="strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+        <mxCell id="wpgupWt_y3VhmFoRx1fL-21" value="Whatsapp Leads Processing    " style="strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=31;align=left;" parent="1" vertex="1">
           <mxGeometry x="5" width="1160" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="wpgupWt_y3VhmFoRx1fL-22" value="" style="shape=delay;whiteSpace=wrap;html=1;resizeHeight=1;part=1;fontStyle=1;fontSize=15;" parent="wpgupWt_y3VhmFoRx1fL-21" vertex="1">
-          <mxGeometry width="350" height="70" relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="wpgupWt_y3VhmFoRx1fL-24" value="&lt;h3 style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px; font-weight: 400;&quot;&gt;Salesforce to Portal and Portal to Salesforce&amp;nbsp;&lt;/span&gt;&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;part=1;fontSize=15;" parent="wpgupWt_y3VhmFoRx1fL-22" vertex="1">
-          <mxGeometry width="310" height="20" relative="1" as="geometry">
-            <mxPoint x="20" y="40" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="wpgupWt_y3VhmFoRx1fL-25" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;verticalAlign=top;align=left;spacingLeft=10;fontSize=11;part=1;" parent="wpgupWt_y3VhmFoRx1fL-21" vertex="1">
           <mxGeometry x="1" width="462" height="50" relative="1" as="geometry">
