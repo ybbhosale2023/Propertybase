@@ -2201,7 +2201,7 @@
           <mxGeometry x="771" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wpgupWt_y3VhmFoRx1fL-1" value="Sudonum" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="740" y="250" width="240" height="190" as="geometry" />
+          <mxGeometry x="730" y="250" width="240" height="190" as="geometry" />
         </mxCell>
         <mxCell id="wpgupWt_y3VhmFoRx1fL-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;flowAnimation=1;strokeWidth=3;strokeColor=#3333FF;" parent="1" source="wpgupWt_y3VhmFoRx1fL-3" target="O2Ik6jsQJMsfZ4ofgOr0-28" edge="1">
           <mxGeometry relative="1" as="geometry">
