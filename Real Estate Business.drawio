@@ -251,19 +251,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nRmW_nZLul0ctDXwW7aQ-11" value="Linked-In" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#5057b4;fontSize=14;shadow=1;glass=1;" parent="1" vertex="1">
+        <mxCell id="nRmW_nZLul0ctDXwW7aQ-11" value="Linked-In" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;shadow=1;glass=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nRmW_nZLul0ctDXwW7aQ-12" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=1;strokeColor=#001DBC;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=1;fillColor=#0050ef;" parent="1" source="nRmW_nZLul0ctDXwW7aQ-13" target="nRmW_nZLul0ctDXwW7aQ-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nRmW_nZLul0ctDXwW7aQ-13" value="Snapchat" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#5057b4;fontSize=14;shadow=1;glass=1;" parent="1" vertex="1">
+        <mxCell id="nRmW_nZLul0ctDXwW7aQ-13" value="Snapchat" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;shadow=1;glass=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nRmW_nZLul0ctDXwW7aQ-14" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=1;strokeColor=#001DBC;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=1;fillColor=#0050ef;" parent="1" source="nRmW_nZLul0ctDXwW7aQ-15" target="nRmW_nZLul0ctDXwW7aQ-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nRmW_nZLul0ctDXwW7aQ-15" value="Tick-Tock" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#5057b4;fontSize=14;shadow=1;glass=1;" parent="1" vertex="1">
+        <mxCell id="nRmW_nZLul0ctDXwW7aQ-15" value="Tik Tok" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;shadow=1;glass=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nRmW_nZLul0ctDXwW7aQ-16" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;strokeColor=#001DBC;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=1;fillColor=#0050ef;" parent="1" source="nRmW_nZLul0ctDXwW7aQ-17" target="nRmW_nZLul0ctDXwW7aQ-39" edge="1">
